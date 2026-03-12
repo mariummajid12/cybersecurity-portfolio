@@ -23,7 +23,7 @@ python log_parser.py --log sample_auth.log --threshold 5
 
 ---
 
-### 📋 Vulnerability Assessment — NIS2 Healthcare Case Study
+### 📋 Vulnerability Assessment: NIS2 Healthcare Case Study
 **[`vulnerability-assessment/`](./vulnerability-assessment/)**
 
 *(Coming soon)*
@@ -32,7 +32,7 @@ Security gap analysis and vulnerability assessment of a healthcare organisation'
 
 ---
 
-### 🧠 Threat Intelligence — IOC Analysis & MISP
+### 🧠 Threat Intelligence: IOC Analysis & MISP
 **[`threat-intelligence/`](./threat-intelligence/)**
 
 *(Coming soon)*
