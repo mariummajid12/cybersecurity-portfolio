@@ -8,7 +8,7 @@ This portfolio covers hands-on work in security monitoring, log analysis, threat
 
 ## Projects
 
-### 🔍 Log Analysis — Authentication Threat Detector
+### 🔍 Log Analysis: Authentication Threat Detector
 **[`log-analysis/`](./log-analysis/)**
 
 Parses Linux `auth.log` files to detect brute-force attacks, credential stuffing, and user enumeration attempts. Generates a structured threat summary report.
