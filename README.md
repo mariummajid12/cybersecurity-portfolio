@@ -32,6 +32,10 @@ Security gap analysis and vulnerability assessment of a healthcare organisation'
 
 ---
 
+### 🧠 CaFA Adversarial Attacks: IOC Analysis & MISP
+**[`CaFA-adversarial-attacks/`](./CaFA-adversarial-attacks/)**
+
+
 ### 🧠 Threat Intelligence: IOC Analysis & MISP
 **[`threat-intelligence/`](./threat-intelligence/)**
 
