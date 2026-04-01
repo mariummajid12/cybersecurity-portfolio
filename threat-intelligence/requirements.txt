@@ -1,0 +1,4 @@
+pymisp
+pandas
+python-dotenv
+urllib3
