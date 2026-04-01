@@ -1,0 +1,10 @@
+# Credentials
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+
+# Data
+data/*.pcap
