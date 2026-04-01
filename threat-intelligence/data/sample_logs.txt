@@ -1,0 +1,4 @@
+2026-04-01 14:00:01 SRC=192.168.1.50 DST=45.33.2.11 PROTO=TCP SPT=4433 DPT=80
+2026-04-01 14:05:22 CRITICAL: File execution blocked. 
+Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Possible connection to known threat actor: APT-28
